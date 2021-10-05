@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">powerGenerator</string>
+    <string name="button_send">=</string>
+    <string name="button2">=</string>
+    <string name="button3">=</string>
+    <string name="button4">=</string>
+    <string name="defval">0</string>
+    <string name="t2">2</string>
+    <string name="t3">3</string>
+    <string name="t4">4</string>
+    <string name="t5">5</string>
+    <string name="defoutput">1.00</string>
+</resources>
+
+
